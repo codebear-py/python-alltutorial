@@ -19,3 +19,5 @@ print(name.find("c",1))
 # center method
 print(name.center(11,"*"))
 # strings are immutable
+# mutable=changable
+# immutable= can't be change
